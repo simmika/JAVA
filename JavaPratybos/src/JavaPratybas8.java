@@ -1,0 +1,2 @@
+public class JavaPratybas8 {
+}
